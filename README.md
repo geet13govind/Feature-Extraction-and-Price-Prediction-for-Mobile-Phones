@@ -74,7 +74,7 @@ Identification of the most influential features affecting mobile phone prices.
 
 Actionable recommendations for optimizing pricing and marketing strategies based on feature importance.
 
-## Technical Skills:
+## Tools and Libraries:
 
 This project involves employing:
 
@@ -83,6 +83,18 @@ Machine learning libraries (Scikit-learn, TensorFlow, etc.)
 Data visualization tools (Matplotlib, Seaborn)
 
 Data analysis techniques (correlation, feature selection)
+
+## Repository Structure
+
+Mobile Data.csv/: Contains the dataset used for analysis.
+
+Feature_Extraction and price prediction of mobiles.ipynb/: Jupyter notebooks for each stage of the analysis.
+
+Mobile_Price_Prediction_PPT/: Presentation of Project done.
+
+Final_mobile_data.csv/: Data after cleaning and featuring engineering
+
+README.md: Overview of the project and instructions for replication.
 
 ## Benefits:
 
@@ -93,4 +105,9 @@ Set competitive and informed prices.
 Target marketing efforts based on impactful features.
 
 This project sets the stage for further exploration into advanced models and market dynamics, ultimately guiding a data-centric approach to mobile phone sales.
+
+## Conclusion:
+
+This project successfully developed a machine learning model for predicting mobile phone prices based on key features. 
+Through feature extraction techniques, we identified the most influential factors impacting price, providing valuable insights for informed decision-making.
 
